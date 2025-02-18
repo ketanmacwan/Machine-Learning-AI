@@ -1,0 +1,11 @@
+# Navigate to your project directory
+cd "D:/ML & AI"
+
+# Add all files and folders to the staging area
+git add .
+
+# Commit the changes with a meaningful message
+git commit -m "Add all project files and folders"
+
+# Push the changes to the remote repository on GitHub
+git push origin main
